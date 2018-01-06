@@ -8,5 +8,6 @@ public class ProjManagerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ProjManagerApplication.class, args);
+		System.out.println("initial");
 	}
 }
